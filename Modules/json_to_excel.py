@@ -191,7 +191,7 @@ def main():
 
     # Step 2) Decide how many JSON inputs (default 14). 
     # Let the user specify the number of JSON text areas.
-    num_json_inputs = st.number_input("Number of JSON inputs", min_value=1, value=14, step=1)
+    num_json_inputs = st.number_input("Number of JSON inputs", min_value=1, value=10, step=1)
 
     # Collect JSON text in a list
     json_texts = []
