@@ -6,11 +6,9 @@ openpyxl
 pandas
 PyPDF2
 numpy
-docx
 python-docx
 tabulate
 PyMuPDF
 rapidfuzz
-
-
+xlsxwriter
 
